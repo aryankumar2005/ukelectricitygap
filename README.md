@@ -24,11 +24,11 @@ All of it is live formulas. Change the fit end year on the Model tab and everyth
 
 ## Results
 
-![Supplied vs consumed with linear trends to 2040](Picture 1.png)
+![Supplied vs consumed with linear trends to 2040](Picture_1.png)
 
 On the 1965–2022 trends, consumption reaches about 408 TWh in 2040. Supply stays ahead, and the two trend lines don't cross until around 2275, because their slopes are almost identical.
 
-![2040 surplus or shortfall against supply growth slowdown](Picture 2.png)
+![2040 surplus or shortfall against supply growth slowdown](Picture_2.png)
 
 **Supply growth would have to slow by about 26% from 2021 onwards for demand to overtake supply before 2040.** Anything less than that still leaves a surplus.
 
