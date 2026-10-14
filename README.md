@@ -46,10 +46,6 @@ Adding the last three years of data lowers the threshold to about 22%. Both tren
 - **The crossover year is fragile.** The two slopes are so close that small data revisions move it by decades.
 - **Electrification isn't modelled.** EVs and heat pumps could push demand back up, which a backward-looking trend can't capture.
 
-## Poster 
-
-![Group Poster detailing research](poster.png)
-
 ## Files
 
 - `UK_Electricity_Gap.xlsx`: the model (tabs: Notes, Data, Model, Sensitivity, Forecast)
