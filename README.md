@@ -48,7 +48,7 @@ Adding the last three years of data lowers the threshold to about 22%. Both tren
 
 ## Poster 
 
-![Group Poster detailing research](poster.pdf)
+![Group Poster detailing research](poster.png)
 
 ## Files
 
