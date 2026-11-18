@@ -2,11 +2,11 @@
 
 Will UK electricity consumption overtake electricity supply before 2040? And if not, how much would supply growth have to slow down for that to happen?
 
-This started as a university group project. I rebuilt the analysis on my own in Excel afterwards, using the latest official data.
+This was originally a university group project. I rebuilt the analysis on my own in Excel afterwards, using the latest official data.
 
 ## Data
 
-The data is from the government's Digest of UK Energy Statistics (DUKES), table "Electricity since 1920". I used electricity supplied (net) and total electricity consumed, in TWh, from 1965 to 2025. It's published under the Open Government Licence v3.0.
+The data is from the government's Digest of UK Energy Statistics (DUKES), table "Electricity since 1920". I used electricity supplied (net) and total electricity consumed, in TWh, from 1965 to 2025. 
 
 The figures change basis in 1986/87. Before that they only cover the major power producers, and from 1987 they cover all generating companies. This is explained on the Data tab.
 
@@ -23,11 +23,11 @@ Everything is done with formulas, so changing the fit end year on the Model tab 
 
 ## Results
 
-![Supplied and consumed with straight line trends to 2040](trends.png)
+![Supplied and consumed with straight line trends to 2040](picture_1.png)
 
 On the 1965 to 2022 trends, consumption reaches about 408 TWh in 2040. Supply stays ahead, and the two trend lines don't cross until around 2275, because their slopes are almost the same.
 
-![Surplus or shortfall in 2040 for different supply growth slowdowns](sensitivity.png)
+![Surplus or shortfall in 2040 for different supply growth slowdowns](picture_2.png)
 
 Supply growth would have to slow by about 26% from 2021 onwards for demand to overtake supply before 2040. Anything less than that still leaves a surplus.
 
